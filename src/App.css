@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+.card{
+  /* border: 1px solid black; */
+  box-shadow: rgba(0, 0, 0, 0.15) 2.4px 2.4px 3.2px;
+  padding: 20px;
+  width:180px;
+}
+.card-container{
+  display: grid;
+  grid-template-columns: 200px 200px;
+  padding: 20px;
+  gap:10px;
+  justify-content: center;
+  
+}
